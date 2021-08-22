@@ -1,2 +1,2 @@
 # Smart-Bulb
-A Bulb which have multiple features.
+Smart lighting is a lighting technology designed for energy efficiency, convenience and security. This may include high efficiency fixtures and automated controls that make adjustments based on conditions such as occupancy or daylight availability. Lighting is the deliberate application of light to achieve some aesthetic or practical effect (e.g. illumination of a security breach). It includes task lighting, accent lighting, and general lighting.
