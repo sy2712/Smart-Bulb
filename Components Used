@@ -1,0 +1,43 @@
+Components Used:-
+
+1) Bluetooth Module(HC-05)
+2) Led
+3) Connecting Wires
+4) Relay
+5) Color Led App
+6)Microcontroller ATmega328p
+
+Components Used and their functions:-
+
+1) Bluetooth Module(HC-05)
+   It is designed for transparent wireless serial connection setup. Its communication is via serial
+   communication which makes an easy way to interface with controller or PC. HC-05 Bluetooth module 
+   provides switching mode between master and slave mode which means it able to use neither receiving 
+   nor transmitting data. 
+
+
+2) Microcontroller(ATmega328p)
+   ATMEGA328P is high performance, low power controller from Microchip. ATMEGA328P is an 8-bit microcontroller
+   based on AVR RISC architecture. It is the most popular of all AVR controllers
+
+
+3) Breadboard
+   A breadboard is used to build and test circuits quickly before finalizing any circuit design.
+
+4) Jumping Wires
+   A jump wire (also known as jumper wire, or jumper) is an electrical wire, or group of them in a cable, with a
+   connector or pin at each end (or sometimes without them – simply "tinned"), which is normally used to interconnect
+   the components of a breadboard or other prototype or test circuit, internally or with other equipment or components,
+   without soldering.
+
+4) Led
+   A light-emitting diode (LED) is a semiconductor light source that emits light when current flows through it. Electrons
+   in the semiconductor recombine with electron holes, releasing energy in the form of photons.
+
+5) Relay
+   The switch may have any number of contacts in multiple contact forms, such as make contacts, break contacts, or 
+   combinations thereof. Relays are used where it is necessary to control a circuit by an independent low-power signal, 
+   or where several circuits must be controlled by one signal.
+
+6) Color Changing app
+   This APP(Shown in images) is used  to remote control RGB LED on the Microcontroller Atmega328p through Bluetooth Module HC-05 module.
